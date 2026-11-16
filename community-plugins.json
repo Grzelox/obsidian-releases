@@ -73120,5 +73120,12 @@
     "author": "mateusdcc",
     "description": "Shared long-term goal garden with modular trees, subgoals, and habit watering for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mateusdcc/obsidian-iter"
+  },
+  {
+    "id": "daily-games",
+    "name": "Daily Games",
+    "author": "grzelo",
+    "description": "A front page for your daily games: open them, track what you've played today, paste results and keep streaks.",
+    "repo": "Grzelox/obsidian-daily-games"
   }
 ]
